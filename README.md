@@ -32,3 +32,5 @@ Bu proje öğrenme ve pratik amacıyla geliştirilmiştir.
 Yeni eğitim satırı — Git Branch & Pull Request öğrenildi.
 
 Bu proje ile Git branch, commit ve Pull Request mantığı öğrenildi.
+
+Bu satır main branch tarafından eklendi.
