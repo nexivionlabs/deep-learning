@@ -27,3 +27,4 @@ Tahmin yapmak için:
 ```bash
 python predict.py
 ```
+Bu proje öğrenme ve pratik amacıyla geliştirilmiştir.
