@@ -68,3 +68,6 @@ print("Doğruluk:", correct / total)
 
 torch.save(model.state_dict(), "mnist_model.pth")
 print("Model kaydedildi ✔️")
+
+
+# Bu satır eğitim amaçlı eklendi: Git Branch, Commit ve Pull Request pratiği için.
