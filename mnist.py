@@ -71,3 +71,9 @@ print("Model kaydedildi ✔️")
 
 
 # Bu satır eğitim amaçlı eklendi: Git Branch, Commit ve Pull Request pratiği için.
+
+
+# NOTE: Eğitim sürecini daha anlaşılır hale getirmek amacıyla eklendi
+
+print("INFO: Eğitim süreci başlatıldı. Model eğitiliyor...")
+
