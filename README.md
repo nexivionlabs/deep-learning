@@ -1,0 +1,29 @@
+# Deep Learning Project
+
+Bu proje, derin öğrenme temellerini öğrenmek ve pratik yapmak için oluşturulmuştur.
+
+## 🚀 İçerik
+- MNIST veri seti ile çalışma
+- Model eğitme
+- Tahmin yapma
+- Temiz ve düzenli proje yapısı
+
+## 📦 Kurulum
+Gerekli paketleri yüklemek için:
+
+```bash
+pip install -r requirements.txt
+```
+
+## ▶️ Çalıştırma
+Modeli eğitmek için:
+
+
+```bash
+python mnist.py
+```
+
+Tahmin yapmak için:
+```bash
+python predict.py
+```
