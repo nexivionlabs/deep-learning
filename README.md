@@ -28,6 +28,10 @@ Tahmin yapmak için:
 python predict.py
 ```
 Bu proje öğrenme ve pratik amacıyla geliştirilmiştir.
+Bu satır eğitim amaçlı eklendi.
+Git öğreniyorum elhamdulillah.
+
+Bu satır feature branch tarafından eklendi.
 
 Yeni eğitim satırı — Git Branch & Pull Request öğrenildi.
 
