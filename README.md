@@ -32,3 +32,9 @@ Bu satır eğitim amaçlı eklendi.
 Git öğreniyorum elhamdulillah.
 
 Bu satır feature branch tarafından eklendi.
+
+Yeni eğitim satırı — Git Branch & Pull Request öğrenildi.
+
+Bu proje ile Git branch, commit ve Pull Request mantığı öğrenildi.
+
+Bu satır main branch tarafından eklendi.
